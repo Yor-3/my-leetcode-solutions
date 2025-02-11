@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0061-rotate-list) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0143-reorder-list) |
