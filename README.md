@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0242-valid-anagram) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Array
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0242-valid-anagram) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Heap (Priority Queue)
 |  |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0146-lru-cache) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
