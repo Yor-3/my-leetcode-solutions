@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0086-partition-list) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0217-contains-duplicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1477-product-of-the-last-k-numbers) |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1477-product-of-the-last-k-numbers) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
