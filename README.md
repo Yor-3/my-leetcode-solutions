@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0048-rotate-image) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1477-product-of-the-last-k-numbers) |
 ## Recursion
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0015-3sum) |
+| [0048-rotate-image](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0054-spiral-matrix) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0059-spiral-matrix-ii) |
 ## Simulation
