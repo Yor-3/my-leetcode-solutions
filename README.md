@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0142-linked-list-cycle-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0090-subsets-ii) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0242-valid-anagram) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
