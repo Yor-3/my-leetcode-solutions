@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0048-rotate-image) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1477-product-of-the-last-k-numbers) |
+| [3227-find-missing-and-repeated-values](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/3227-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0242-valid-anagram) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3227-find-missing-and-repeated-values](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/3227-find-missing-and-repeated-values) |
 ## Array
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0287-find-the-duplicate-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1477-product-of-the-last-k-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3227-find-missing-and-repeated-values](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0073-set-matrix-zeroes) |
+| [3227-find-missing-and-repeated-values](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
