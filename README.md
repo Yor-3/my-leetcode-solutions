@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0090-subsets-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0128-longest-consecutive-sequence) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0493-reverse-pairs) |
 ## Binary Search
@@ -234,13 +236,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
