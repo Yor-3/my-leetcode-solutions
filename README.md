@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0146-lru-cache) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1477-product-of-the-last-k-numbers) |
 ## Doubly-Linked List
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0783-search-in-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0783-search-in-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -270,10 +274,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
