@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0287-find-the-duplicate-number) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0200-number-of-islands) |
 | [3227-find-missing-and-repeated-values](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0200-number-of-islands) |
 ## Tree
 |  |
 | ------- |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -281,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0653-two-sum-iv-input-is-a-bst) |
