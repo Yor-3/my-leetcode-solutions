@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -280,6 +281,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
