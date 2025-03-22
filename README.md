@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0128-longest-consecutive-sequence) |
+| [0133-clone-graph](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0142-linked-list-cycle-ii) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0801-is-graph-bipartite) |
 ## Topological Sort
