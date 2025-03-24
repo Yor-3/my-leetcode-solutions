@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0143-reorder-list) |
+| [0232-implement-queue-using-stacks](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0234-palindrome-linked-list) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Hash Table
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0146-lru-cache) |
+| [0232-implement-queue-using-stacks](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1477-product-of-the-last-k-numbers) |
 ## Doubly-Linked List
@@ -305,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0207-course-schedule) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
