@@ -10,7 +10,7 @@ class Solution:
     def findBottomLeftValue(self, root: Optional[TreeNode]) -> int:
         q = deque([root])
 
-        res = []
+        
 
         while q:
             l = None
@@ -22,10 +22,9 @@ class Solution:
                 if node:
                     l = node
 
-                    q.append(node.right)
-                    q.append(node.left)
-            if l:
-                res.append(l.val)
+                    if node.right: q.append(node.right)
+                    if node.left: q.append(node.left)
+            
 
             
-        return res[-1]
+        return l.val
