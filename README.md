@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0086-partition-list) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0257-binary-tree-paths) |
@@ -341,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0232-implement-queue-using-stacks) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
