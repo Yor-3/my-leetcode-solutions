@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0069-sqrtx) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0128-longest-consecutive-sequence) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0257-binary-tree-paths) |
