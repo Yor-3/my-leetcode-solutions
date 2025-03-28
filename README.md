@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0073-set-matrix-zeroes) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0138-copy-list-with-random-pointer) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0090-subsets-ii) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0053-maximum-subarray) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0493-reverse-pairs) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0100-same-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0145-binary-tree-postorder-traversal) |
@@ -297,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0100-same-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0145-binary-tree-postorder-traversal) |
