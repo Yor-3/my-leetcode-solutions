@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0257-binary-tree-paths) |
