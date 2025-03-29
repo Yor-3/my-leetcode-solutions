@@ -1,38 +1,45 @@
-from typing import Optional
-
-class ListNode:
-    def __init__(self, val=0, next=None):
-        self.val = val
-        self.next = next
-
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
 class Solution:
     def rotateRight(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
-        if not head or not head.next or k == 0:
-            return head  # Edge case: No need to rotate
+        if not head:
+            return None
+        
+        def findlen(root):
+            count = 0
+            last= ListNode(0)
+            while root:
+                last = root
+                count+=1
+                root = root.next
 
-        # Step 1: Find the length of the list
-        length = 1
-        cur = head
-        while cur.next:
-            cur = cur.next
-            length += 1
+            return last,count 
+        last,count = findlen(head)
+        k = k%count
+        if k ==0:
+            return head
+        cur= head
+        for _ in range(k):
+            if cur:
+                cur =cur.next
 
-        # Step 2: Optimize k
-        k = k % length
-        if k == 0:
-            return head  # No need to rotate
+        cur2 = head
+        prev = None
 
-        # Step 3: Find the new tail (length - k - 1 node)
-        cur = head
-        for _ in range(length - k - 1):
-            cur = cur.next
+        while cur:
+            cur =cur.next
+            prev=cur2
+            cur2   = cur2.next
 
-        # Step 4: Rewire the list
-        new_head = cur.next  # New head after rotation
-        cur.next = None  # Break the connection
-        old_tail = new_head
-        while old_tail.next:
-            old_tail = old_tail.next
-        old_tail.next = head  # Connect the old tail to old head
+        prev.next =None
+        last.next = head
+        
 
-        return new_head
+
+
+        return cur2
+
+
