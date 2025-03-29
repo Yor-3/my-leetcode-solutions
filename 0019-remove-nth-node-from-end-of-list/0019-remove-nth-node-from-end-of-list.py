@@ -1,24 +1,20 @@
-from typing import Optional
-
-class ListNode:
-    def __init__(self, val=0, next=None):
-        self.val = val
-        self.next = next
-
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
 class Solution:
     def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
-        dummy = ListNode(0, head)  # Dummy node to handle edge cases
-        first = second = dummy
+        d = ListNode(0,head)
+        c1,c2 = d,d
 
-        # Move first `n+1` steps ahead
-        for _ in range(n + 1):
-            first = first.next
+        for _ in range(n+1):
+            c1 = c1.next
 
-        # Move both pointers until first reaches the end
-        while first:
-            first, second = first.next, second.next
+        while c1:
+            c1 =c1.next
+            c2 = c2.next
 
-        # Remove the nth node
-        second.next = second.next.next
+        c2.next = c2.next.next
 
-        return dummy.next  # Return head of modified list
+        return d.next
