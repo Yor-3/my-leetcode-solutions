@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0086-partition-list) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0053-maximum-subarray) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -237,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0084-largest-rectangle-in-histogram) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Matrix
