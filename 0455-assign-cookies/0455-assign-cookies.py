@@ -1,16 +1,20 @@
+from bisect import bisect_left
+
 class Solution:
     def findContentChildren(self, g: List[int], s: List[int]) -> int:
-        n,m = len(g),len(s)
-        i,j =0,0
         g.sort()
         s.sort()
-        res= 0
-        while (i in range(n)) and (j in range(m)):
-            if g[i] <= s[j]:
-                res +=1
-                i+=1
-                j+=1
-            elif g[i]>s[j]:
-                j+=1
+
+        res = 0
+        idx = 0  # Index in cookie array
+
+        for child in g:
+            # Find the smallest valid cookie for current child
+            idx = bisect_left(s, child, idx)
+
+            # If a valid cookie exists, satisfy the child
+            if idx < len(s):
+                res += 1
+                idx += 1  # Move to the next available cookie
 
         return res
