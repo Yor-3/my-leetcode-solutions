@@ -7,7 +7,7 @@ class Solution:
             start = i
             while stack and stack[-1][1] > h:
                 index, height = stack.pop()
-                maxArea = max(maxArea, height * (i - index))
+                maxArea = max(maxArea, height * (i  - index))
                 start = index
             stack.append((start, h))
 
