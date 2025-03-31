@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0042-trapping-rain-water) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0051-n-queens) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0059-spiral-matrix-ii) |
