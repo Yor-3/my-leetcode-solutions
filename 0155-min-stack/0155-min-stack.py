@@ -1,39 +1,23 @@
-__import__("atexit").register(lambda: open("display_runtime.txt", "a").write("0\n"))
-
 class MinStack:
 
-
     def __init__(self):
-        self.s = []
-        
-
-        
-
+        self.stack = []
+        self.minstack=[]
     def push(self, val: int) -> None:
-        if not self.s:
-            self.s.append((val,min(val,min(val,float('inf')))))
-        else:
-            self.s.append((val,min(val,self.s[-1][1])))
-
-        
+        self.stack.append(val)
+        if not self.minstack or self.minstack[-1] >= val:
+            self.minstack.append(val)
 
     def pop(self) -> None:
-        if not self.s:
-            return None
-        val,minval = self.s.pop()
-        return val
-        
+        if self.minstack[-1] == self.stack[-1]:
+            self.minstack.pop()
+        self.stack.pop()
 
     def top(self) -> int:
-        if not self.s:
-            return None
-        return self.s[-1][0]
+        return self.stack[-1]
 
     def getMin(self) -> int:
-        if not self.s:
-            return None
-        return self.s[-1][1]
-        
+        return self.minstack[-1]
 
 
 # Your MinStack object will be instantiated and called as such:
