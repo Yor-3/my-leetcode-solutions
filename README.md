@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0049-group-anagrams) |
+| [0131-palindrome-partitioning](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0257-binary-tree-paths) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0131-palindrome-partitioning) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Divide and Conquer
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
