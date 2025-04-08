@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3227-find-missing-and-repeated-values](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/3227-find-missing-and-repeated-values) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Array
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/3227-find-missing-and-repeated-values) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Sorting
 |  |
 | ------- |
