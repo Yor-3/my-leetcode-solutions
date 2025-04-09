@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0287-find-the-duplicate-number) |
+| [3394-minimum-array-end](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/3394-minimum-array-end) |
 ## Monotonic Stack
 |  |
 | ------- |
