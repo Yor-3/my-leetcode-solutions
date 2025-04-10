@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2868-continuous-subarrays](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2868-continuous-subarrays) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/3227-find-missing-and-repeated-values) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0295-find-median-from-data-stream) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2868-continuous-subarrays](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2868-continuous-subarrays) |
 ## Design
 |  |
 | ------- |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0493-reverse-pairs) |
+| [2868-continuous-subarrays](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2868-continuous-subarrays) |
 ## Counting
 |  |
 | ------- |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0239-sliding-window-maximum) |
+| [2868-continuous-subarrays](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2868-continuous-subarrays) |
 ## String Matching
 |  |
 | ------- |
@@ -467,8 +471,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0239-sliding-window-maximum) |
+| [2868-continuous-subarrays](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0239-sliding-window-maximum) |
+| [2868-continuous-subarrays](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
