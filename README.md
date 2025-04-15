@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0368-largest-divisible-subset) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1477-product-of-the-last-k-numbers) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -484,4 +486,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1656-count-good-triplets) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
