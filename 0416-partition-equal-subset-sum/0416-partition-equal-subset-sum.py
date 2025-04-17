@@ -1,27 +1,11 @@
 class Solution:
     def canPartition(self, nums: List[int]) -> bool:
-        total = sum(nums)
-        if total % 2 != 0:
-            return False
+        sum1=sum(nums)
+        if sum1&1: return False
+        K=sum1//2
+        dp=(1<<K)
+        for x in nums:
+            dp|=(dp>>x)
+            if dp&1: return True
+        return dp&1==1
         
-        target = total // 2
-        n = len(nums)
-
-        dp = [False] * (target + 1)
-        dp[0] = True  # sum 0 is always possible
-
-        if nums[0] <= target:
-            dp[nums[0]] = True
-
-        for i in range(1, n):
-            curr = [False] * (target + 1)
-            curr[0] = True  # sum 0 is always possible
-            for s in range(1, target + 1):
-                notpick = dp[s]
-                pick = False
-                if nums[i] <= s:
-                    pick = dp[s - nums[i]]
-                curr[s] = pick or notpick
-            dp = curr
-
-        return dp[target]
