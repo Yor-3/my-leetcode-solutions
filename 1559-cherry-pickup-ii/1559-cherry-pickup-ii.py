@@ -1,30 +1,15 @@
 class Solution:
     def cherryPickup(self, grid: List[List[int]]) -> int:
-        rows, cols = len(grid), len(grid[0])
-        dp_next = [[0] * cols for _ in range(cols)]
-
-        for col1 in range(cols):
-            for col2 in range(cols):
-                if col1 == col2:
-                    dp_next[col1][col2] = grid[rows-1][col1]
-                else:
-                    dp_next[col1][col2] = grid[rows-1][col1] + grid[rows-1][col2]
-
-        for row in range(rows-2, -1, -1):
-            dp_curr = [[0] * cols for _ in range(cols)]
-            for col1 in range(cols):
-                for col2 in range(cols):
-                    max_cherries = float('-inf')
-                    for d1 in [-1, 0, 1]:
-                        for d2 in [-1, 0, 1]:
-                            new_col1 = col1 + d1
-                            new_col2 = col2 + d2
-                            if 0 <= new_col1 < cols and 0 <= new_col2 < cols:
-                                max_cherries = max(max_cherries, dp_next[new_col1][new_col2])
-                    if col1 == col2:
-                        dp_curr[col1][col2] = grid[row][col1] + max_cherries
-                    else:
-                        dp_curr[col1][col2] = grid[row][col1] + grid[row][col2] + max_cherries
-            dp_next = dp_curr
-
-        return dp_next[0][cols-1]
+        m, n = len(grid), len(grid[0])
+        pre = [[0] * (n + 2) for _ in range(n + 2)]
+        cur = [[0] * (n + 2) for _ in range(n + 2)]
+        for i in range(m - 1, -1, -1):
+            for j in range(min(n, i + 1)):
+                for k in range(max(j + 1, n - 1 - i), n):
+                    cur[j + 1][k + 1] = max(
+                        pre[j][k], pre[j][k + 1], pre[j][k + 2],
+                        pre[j + 1][k], pre[j + 1][k + 1], pre[j + 1][k + 2],
+                        pre[j + 2][k], pre[j + 2][k + 1], pre[j + 2][k + 2],
+                    ) + grid[i][j] + grid[i][k]
+            pre, cur = cur, pre  
+        return pre[1][n]
