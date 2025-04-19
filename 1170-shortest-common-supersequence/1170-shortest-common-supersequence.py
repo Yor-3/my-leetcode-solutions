@@ -1,63 +1,72 @@
 class Solution:
     def shortestCommonSupersequence(self, str1: str, str2: str) -> str:
-        # Find starting common sequence.  If common start 
-        # covers all of one or both of the strings, then 
-        # return the common start string plus any remnants 
-        # of the other string.
-        cmnStart = ""
-        n = min(len(str1), len(str2))
-        i = 0
-        while i < n and str1[i] == str2[i]:  i += 1
-        if i == n:  
-            return "".join([str1[:i], str1[i:], str2[i:]])
+        # Compute the LCS using Hirschberg's algorithm.
+        lcs = self.hirschberg(str1, str2)
+        # Merge str1 and str2 using the LCS as a guide.
+        return self.mergeSCS(str1, str2, lcs)
 
-        # Find ending common sequence.
-        cmnEnd = ""
-        n -= i
-        j = 1
-        while j < n and str1[-j] == str2[-j]:  j += 1
-        j -= 1
+    def mergeSCS(self, s1: str, s2: str, lcs: str) -> str:
+        i, j = 0, 0
+        res = []
+        # For each character in the LCS, append characters from s1 and s2
+        # that come before the matching character.
+        for c in lcs:
+            while i < len(s1) and s1[i] != c:
+                res.append(s1[i])
+                i += 1
+            while j < len(s2) and s2[j] != c:
+                res.append(s2[j])
+                j += 1
+            # Append the common character and move past it in both strings.
+            res.append(c)
+            i += 1
+            j += 1
+        # Append any remaining parts.
+        res.append(s1[i:])
+        res.append(s2[j:])
+        return "".join(res)
 
-        # After finding common start and common end of strings, 
-        # remove the common start and end of the strings.
-        if i > 0 or j > 0:
-            if i > 0:  cmnStart = str1[:i]
-            if j > 0:  cmnEnd = str1[-j:]
-            str1 = str1[i: len(str1) - j]
-            str2 = str2[i: len(str2) - j]
-        n1 = len(str1)
-        n2 = len(str2)
-
-        # Find longest common sequence using DP.
-        sc1 = list(map(ord, str1))
-        sc2 = list(map(ord, str2))
-        dp = [[0]*(n2 + 1) for _ in range(n1 + 1)]
-        for i1 in range(n1 + 1):  dp[i1][0] = i1
-        dp[0] = list(range(n2 + 1))
-
-        for i1,ch1 in enumerate(sc1):
-            for i2,ch2 in enumerate(sc2):
-                dp[i1 + 1][i2 + 1] = 1 + (dp[i1][i2] if ch1 == ch2 else min(dp[i1 + 1][i2], dp[i1][i2 + 1]))
+    def hirschberg(self, A: str, B: str) -> str:
+        # Base case: if A is empty, LCS is empty.
+        if len(A) == 0:
+            return ""
+        # Base case: if A is of length 1, check if its character appears in B.
+        if len(A) == 1:
+            return A if A in B else ""
         
-        # Build result string from backtracking through DP 
-        # for longest common sequence.
-        i1 = n1 - 1
-        i2 = n2 - 1
-        result = [cmnEnd]
-        while i1 >= 0 and i2 >= 0:
-            if sc1[i1] == sc2[i2]:
-                result.append(str1[i1])
-                i1 -= 1
-                i2 -= 1
-            elif dp[i1 + 1][i2 + 1] == dp[i1][i2 + 1] + 1:
-                result.append(str1[i1])
-                i1 -= 1
-            else:
-                result.append(str2[i2])
-                i2 -= 1
+        # Divide A into two halves.
+        i = len(A) // 2
+        # Compute the LCS length for the left half.
+        L1 = self.lcsLength(A[:i], B)
+        # Compute the LCS length for the right half on reversed strings.
+        L2 = self.lcsLength(A[i:][::-1], B[::-1])
         
-        if i2 >= 0:  result.append(str2[: i2 + 1])
-        if i1 >= 0:  result.append(str1[: i1 + 1])
-        result.append(cmnStart)
-        return "".join(reversed(result))
+        # Find the index k in B that maximizes L1[k] + L2[len(B) - k]
+        max_val = -1
+        k = 0
+        for j in range(len(B) + 1):
+            if L1[j] + L2[len(B) - j] > max_val:
+                max_val = L1[j] + L2[len(B) - j]
+                k = j
+        
+        # Recursively compute the LCS for the two halves.
+        LCS_left = self.hirschberg(A[:i], B[:k])
+        LCS_right = self.hirschberg(A[i:], B[k:])
+        return LCS_left + LCS_right
 
+    def lcsLength(self, A: str, B: str) -> list:
+        """
+        Compute the LCS DP array for A and B using only O(len(B)) space.
+        Returns an array dp of length len(B)+1 where dp[j] is the length of the
+        LCS of A and B[:j].
+        """
+        dp = [0] * (len(B) + 1)
+        for a in A:
+            new_dp = [0] * (len(B) + 1)
+            for j in range(len(B)):
+                if a == B[j]:
+                    new_dp[j + 1] = dp[j] + 1
+                else:
+                    new_dp[j + 1] = max(new_dp[j], dp[j + 1])
+            dp = new_dp
+        return dp
