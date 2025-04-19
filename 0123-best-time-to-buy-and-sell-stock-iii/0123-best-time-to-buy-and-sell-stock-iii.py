@@ -1,21 +1,25 @@
-class Solution:
-    def f(self,i,bs,cap,p,dp):
 
-        if i==len(p) or cap == 0:
+
+class Solution:
+    def maxProfit(self, prices: List[int]) -> int:
+        n = len(prices)
+        if n == 0:
             return 0
 
-        if dp[i][bs][cap]!=-1:
-            return dp[i][bs][cap]
-        if bs:
-            
-            dp[i][bs][cap]=max(-p[i]+self.f(i+1,0,cap,p,dp),self.f(i+1,1,cap,p,dp))
-            return dp[i][bs][cap]
-        else:
-            dp[i][bs][cap]=max(p[i]+self.f(i+1,1,cap-1,p,dp),self.f(i+1,0,cap,p,dp))
-            return dp[i][bs][cap]
+        after = [[0] * 3 for _ in range(2)]
+        curr = [[0] * 3 for _ in range(2)]
 
-        
-    def maxProfit(self, prices: List[int]) -> int:
-        dp = [[[-1 for i in range(3)]for i in range(2)] for i in range(len(prices))]
-        return self.f(0,1,2,prices,dp)
-        
+        for i in range(n - 1, -1, -1):
+            for bs in range(2):
+                for cap in range(1, 3):
+                    if bs:
+                        buy = -prices[i] + after[0][cap]
+                        skip = after[1][cap]
+                        curr[bs][cap] = max(buy, skip)
+                    else:
+                        sell = prices[i] + after[1][cap - 1]
+                        skip = after[0][cap]
+                        curr[bs][cap] = max(sell, skip)
+            after = [curr_row[:] for curr_row in curr]
+
+        return after[1][2]
