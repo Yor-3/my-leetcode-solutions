@@ -10,7 +10,8 @@ class Solution:
         if s[i]==t[j]:
             dp[i][j] =  self.f(i-1,j-1,s,t,dp)+self.f(i-1,j,s,t,dp)
             return dp[i][j]
-        dp[i][j] = self.f(i-1,j,s,t,dp)
+        else:
+            dp[i][j] = self.f(i-1,j,s,t,dp)
         return dp[i][j]
     def numDistinct(self, s: str, t: str) -> int:
 
@@ -19,4 +20,3 @@ class Solution:
 
         dp = [[-1 for _ in range(n)]for _ in range(m)]
         return self.f(m-1,n-1,s,t,dp)
-        
