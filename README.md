@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2868-continuous-subarrays](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2868-continuous-subarrays) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/3227-find-missing-and-repeated-values) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0455-assign-cookies) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0493-reverse-pairs) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Backtracking
 |  |
 | ------- |
