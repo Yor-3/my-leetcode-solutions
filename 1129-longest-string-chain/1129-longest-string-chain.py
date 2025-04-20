@@ -1,25 +1,15 @@
 class Solution:
     def longestStrChain(self, words: List[str]) -> int:
-        words.sort(key =len)
-        def compare(a, b):
-            if len(a) + 1 != len(b):
-                return False
+        words.sort(key=len)
+        dp = {}
+        max_len = 1
 
-            i = j = 0
-            while j < len(b):
-                if i < len(a) and a[i] == b[j]:
-                    i += 1
-                j += 1
+        for word in words:
+            dp[word] = 1
+            for i in range(len(word)):
+                prev = word[:i] + word[i+1:]
+                if prev in dp:
+                    dp[word] = max(dp[word], dp[prev] + 1)
+            max_len = max(max_len, dp[word])
 
-            return i == len(a)
-
-        n = len(words)
-        dp = [1 for _ in range(n)]
-
-        for i in range(n-1,-1,-1):
-            for j in range(i+1,n):
-                if compare(words[i],words[j]) and dp[i]<(1+dp[j]):
-                    dp[i] = 1+dp[j]
-
-        return max(dp)
-        
+        return max_len
