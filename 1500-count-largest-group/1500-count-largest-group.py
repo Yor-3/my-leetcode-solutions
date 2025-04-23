@@ -1,22 +1,13 @@
 class Solution:
     def countLargestGroup(self, n: int) -> int:
-        hash = defaultdict(int)
-        def findsum(i):
-            if i ==0:
-                return 0
+        count = [0] * 37  
+        for i in range(1, n + 1):
+            s = 0
+            x = i
+            while x:
+                s += x % 10
+                x //= 10
+            count[s] += 1
 
-            sum=0
-            while i>0:
-                sum+=i%10
-                i//=10
-
-            return sum
-
-        for i in range(1,n+1):
-            hash[findsum(i)] +=1
-
-        maxsize = max(hash.values())
-
-        count = sum(1 for v in hash.values() if v == maxsize)
-
-        return count
+        max_val = max(count)
+        return count.count(max_val)
