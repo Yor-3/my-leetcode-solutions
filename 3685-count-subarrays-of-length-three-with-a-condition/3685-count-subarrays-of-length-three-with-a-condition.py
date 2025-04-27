@@ -1,12 +1,17 @@
 class Solution:
     def countSubarrays(self, nums: List[int]) -> int:
+
+        total_subarrays = 0
+        start_index = 0
+        end_index = 2
         n = len(nums)
-        cnt =0
+        while end_index < n:
+
+            if (nums[start_index] + nums[end_index]) * 2 == nums[start_index + 1]:
+                total_subarrays += 1
+
+            start_index += 1
+            end_index += 1
+
+        return total_subarrays
         
-        for i in range(n-2):
-            if (nums[i]+nums[i+2])*2 == nums[i+1]:
-                cnt+=1
-
-            
-
-        return cnt
