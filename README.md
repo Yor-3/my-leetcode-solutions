@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0459-repeated-substring-pattern](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0459-repeated-substring-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0583-delete-operation-for-two-strings) |
 | [1129-longest-string-chain](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1129-longest-string-chain) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0459-repeated-substring-pattern) |
 ## Quickselect
 |  |
 | ------- |
