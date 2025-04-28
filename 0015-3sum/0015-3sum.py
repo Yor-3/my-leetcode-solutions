@@ -1,34 +1,33 @@
-from typing import List
-
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
-        res = []
         nums.sort()
+        res = []
 
-        for i, a in enumerate(nums):
-            if i > 0 and a == nums[i - 1]:
-                continue  # Skip duplicates for `a`
+        for i in range(len(nums)-2):
+            if i>0 and nums[i]==nums[i-1]:
+                continue
+            l =i+1
+            r=len(nums)-1
+            while l<r:
+                a = nums[i]+nums[l]+nums[r]
 
-            l, r = i + 1, len(nums) - 1  # ← Correctly define `l` and `r` here
+                if a>0:
+                    r-=1
 
-            while l < r:
-                s = a + nums[l] + nums[r]
+                elif a<0:
+                    l+=1
 
-                if s < 0:
-                    l += 1
-                elif s > 0:
-                    r -= 1
                 else:
-                    res.append([a, nums[l], nums[r]])  # ← Use list brackets `[]`
+                    res.append([nums[i], nums[l], nums[r]])
 
-                    # Skip duplicates for `l` and `r`
-                    while l < r and nums[l] == nums[l + 1]:
-                        l += 1
-                    while l < r and nums[r] == nums[r - 1]:
-                        r -= 1
+                    while l<r and nums[l]==nums [l+1]:
+                        l+=1
 
-                    # Move both pointers after finding a valid triplet
-                    l += 1
-                    r -= 1
+                    while l<r and nums[r]==nums[r-1]:
+                        r-=1
+
+                    l+=1
+                    r-=1
 
         return res
+
