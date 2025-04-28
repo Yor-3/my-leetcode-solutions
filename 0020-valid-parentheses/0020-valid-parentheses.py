@@ -1,18 +1,21 @@
 class Solution:
+    def ispair(self,a,b):
+        if a=='(' and b==')' or a=='[' and b==']' or a=='{' and b=='}':
+            return True
+        return False
     def isValid(self, s: str) -> bool:
-        st = []
-
-        for i in range(len(s)):
-            if st:
-                last = st[-1]
-                if self.is_pair(last, s[i]):
-                    st.pop()
-                    continue
-            st.append(s[i])
-        
-        return not st
-    
-    def is_pair(self, last, cur):
-        if last == "(" and cur == ")" or last == "{" and cur == "}" or last == "[" and cur == "]":
+        stack=[0]*len(s)
+        open=['(','{','[']
+        close=[')','}',']']
+        top=-1
+        for i in s:
+            if i in open:
+                top+=1
+                stack[top]=i
+            elif i in close:
+                if not self.ispair(stack[top],i):
+                    return False
+                top-=1
+        if top == -1:
             return True
         return False
