@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0049-group-anagrams) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0038-count-and-say) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0239-sliding-window-maximum) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Yor-3/my-leetcode-solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
