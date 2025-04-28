@@ -2,11 +2,7 @@ from typing import List
 
 class Solution:
     def longestSubsequence(self, arr: List[int], difference: int) -> int:
-        dp = {} 
-        ans = 1
-        
+        table = {}
         for num in arr:
-            dp[num] = dp.get(num - difference, 0) + 1
-            ans = max(ans, dp[num])
-        
-        return ans
+            table[num] = table.get(num - difference, 0) + 1
+        return max(table.values())
