@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1129-longest-string-chain) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1500-count-largest-group](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1500-count-largest-group) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1129-longest-string-chain](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1129-longest-string-chain) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1477-product-of-the-last-k-numbers) |
 | [1559-cherry-pickup-ii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1559-cherry-pickup-ii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1250-longest-common-subsequence) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1559-cherry-pickup-ii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1559-cherry-pickup-ii) |
