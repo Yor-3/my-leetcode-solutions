@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0295-find-median-from-data-stream) |
+| [0349-intersection-of-two-arrays](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0908-middle-of-the-linked-list) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0322-coin-change) |
+| [0349-intersection-of-two-arrays](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0416-partition-equal-subset-sum) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0295-find-median-from-data-stream) |
+| [0349-intersection-of-two-arrays](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0455-assign-cookies) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -386,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0493-reverse-pairs) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
