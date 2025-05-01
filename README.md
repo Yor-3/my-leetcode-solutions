@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0062-unique-paths) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0287-find-the-duplicate-number) |
