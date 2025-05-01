@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0064-minimum-path-sum) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0215-kth-largest-element-in-an-array) |
