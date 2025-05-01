@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1656-count-good-triplets) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2249-count-the-hidden-sequences](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1129-longest-string-chain) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2479-meeting-rooms-iii) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0797-rabbits-in-forest](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0797-rabbits-in-forest) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0493-reverse-pairs) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Backtracking
@@ -592,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0239-sliding-window-maximum) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Yor-3/my-leetcode-solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2868-continuous-subarrays) |
 ## String Matching
@@ -618,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0239-sliding-window-maximum) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Yor-3/my-leetcode-solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2868-continuous-subarrays) |
 ## Enumeration
