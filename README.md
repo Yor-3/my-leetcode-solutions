@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0747-min-cost-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0797-rabbits-in-forest) |
 | [1036-rotting-oranges](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1036-rotting-oranges) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1129-longest-string-chain](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1129-longest-string-chain) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0797-rabbits-in-forest](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0797-rabbits-in-forest) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Dynamic Programming
