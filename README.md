@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0380-insert-delete-getrandom-o1) |
 | [0797-rabbits-in-forest](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0797-rabbits-in-forest) |
+| [0856-consecutive-numbers-sum](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0856-consecutive-numbers-sum) |
 | [1086-divisor-game](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1086-divisor-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0856-consecutive-numbers-sum](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0856-consecutive-numbers-sum) |
 | [1656-count-good-triplets](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2998-count-symmetric-integers) |
 ## Memoization
