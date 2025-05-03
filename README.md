@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0380-insert-delete-getrandom-o1) |
+| [0796-reaching-points](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0796-reaching-points) |
 | [0797-rabbits-in-forest](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0797-rabbits-in-forest) |
 | [0856-consecutive-numbers-sum](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0856-consecutive-numbers-sum) |
 | [1086-divisor-game](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1086-divisor-game) |
