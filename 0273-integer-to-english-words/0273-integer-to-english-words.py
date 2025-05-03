@@ -1,34 +1,37 @@
 class Solution:
     def numberToWords(self, num: int) -> str:
         if num == 0:
-            return "Zero"
-
-        below_20 = ["", "One", "Two", "Three", "Four", "Five", "Six",
-                    "Seven", "Eight", "Nine", "Ten", "Eleven", "Twelve",
-                    "Thirteen", "Fourteen", "Fifteen", "Sixteen", "Seventeen",
-                    "Eighteen", "Nineteen"]
-
-        tens = ["", "Ten", "Twenty", "Thirty", "Forty", "Fifty",
-                "Sixty", "Seventy", "Eighty", "Ninety"]
-
-        thousands = ["", "Thousand", "Million", "Billion"]
-
-        def three_digit_to_words(n):
-            if n == 0:
-                return ""
-            elif n < 20:
-                return below_20[n]
-            elif n < 100:
-                return tens[n // 10] + (" " + below_20[n % 10] if n % 10 != 0 else "")
+            return 'Zero'
+        
+        ones = ["", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine"]
+        teens = ["Ten", "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen", "Sixteen", "Seventeen", "Eighteen", "Nineteen"]
+        tens = ["", "", "Twenty", "Thirty", "Forty", "Fifty", "Sixty", "Seventy", "Eighty", "Ninety"]
+        order = ["", "Thousand", "Million", "Billion"]
+        
+        def chunk_to_words(chunk):
+            words = []
+            if chunk >= 100:
+                words.append(ones[chunk // 100] + " Hundred")
+                chunk %= 100
+            if 10 <= chunk < 20:
+                words.append(teens[chunk - 10])
             else:
-                return below_20[n // 100] + " Hundred" + (
-                    " " + three_digit_to_words(n % 100) if n % 100 != 0 else "")
+                if chunk >= 20:
+                    words.append(tens[chunk // 10])
+                    chunk %= 10
+                if chunk > 0:
+                    words.append(ones[chunk])
+            return ' '.join(words)
 
-        res = []
-        for idx in range(len(thousands)):
-            if num % 1000 != 0:
-                chunk = three_digit_to_words(num % 1000)
-                res.append(chunk + " " + thousands[idx] if thousands[idx] else chunk)
+        
+        chunks = []
+        while num > 0:
+            chunks.append(num % 1000)
             num //= 1000
+        
+        words = []
+        for i in range(len(chunks)):
+            if chunks[i] > 0:
+                words.append(f"{chunk_to_words(chunks[i])} {order[i]}".strip())
 
-        return " ".join(reversed(res)).strip()
+        return ' '.join(reversed(words))
