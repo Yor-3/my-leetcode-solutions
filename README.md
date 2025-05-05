@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0747-min-cost-climbing-stairs) |
+| [0806-domino-and-tromino-tiling](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0868-push-dominoes) |
 | [1086-divisor-game](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1086-divisor-game) |
 | [1129-longest-string-chain](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1129-longest-string-chain) |
