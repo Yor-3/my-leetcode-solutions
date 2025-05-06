@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1656-count-good-triplets) |
+| [2048-build-array-from-permutation](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2048-build-array-from-permutation) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2249-count-the-hidden-sequences](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2249-count-the-hidden-sequences) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0059-spiral-matrix-ii) |
 | [0735-asteroid-collision](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0735-asteroid-collision) |
+| [2048-build-array-from-permutation](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2048-build-array-from-permutation) |
 | [2479-meeting-rooms-iii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2479-meeting-rooms-iii) |
 ## Binary Indexed Tree
 |  |
