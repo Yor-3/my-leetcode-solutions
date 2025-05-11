@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1129-longest-string-chain](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1129-longest-string-chain) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1293-three-consecutive-odds](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1293-three-consecutive-odds) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1477-product-of-the-last-k-numbers) |
