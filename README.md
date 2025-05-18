@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1559-cherry-pickup-ii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1559-cherry-pickup-ii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
