@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1500-count-largest-group](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1500-count-largest-group) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2479-meeting-rooms-iii) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1559-cherry-pickup-ii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1559-cherry-pickup-ii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0169-majority-element) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Union Find
 |  |
@@ -662,11 +665,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0801-is-graph-bipartite) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0207-course-schedule) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Queue
 |  |
 | ------- |
@@ -713,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0070-climbing-stairs) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Combinatorics
 |  |
 | ------- |
