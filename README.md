@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1477-product-of-the-last-k-numbers) |
+| [1708-design-parking-system](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1708-design-parking-system) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0059-spiral-matrix-ii) |
 | [0735-asteroid-collision](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0735-asteroid-collision) |
+| [1708-design-parking-system](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1708-design-parking-system) |
 | [2048-build-array-from-permutation](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2048-build-array-from-permutation) |
 | [2479-meeting-rooms-iii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2479-meeting-rooms-iii) |
 ## Binary Indexed Tree
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0169-majority-element) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1708-design-parking-system](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1708-design-parking-system) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/3629-total-characters-in-string-after-transformations-i) |
