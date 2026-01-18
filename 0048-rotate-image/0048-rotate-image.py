@@ -3,24 +3,18 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
-        l, r = 0, len(matrix) - 1
-        while l < r:
-            for i in range(r - l):
-                top, bottom = l, r
+        l,r =0,len(matrix)-1
 
-                # save the topleft
-                topLeft = matrix[top][l + i]
+        while l<=r:
+            for i in range(r-l):
+                top,bottom = l,r
 
-                # move bottom left into top left
-                matrix[top][l + i] = matrix[bottom - i][l]
+                topleft = matrix[top][l+i]
 
-                # move bottom right into bottom left
-                matrix[bottom - i][l] = matrix[bottom][r - i]
+                matrix[top][l+i] = matrix[bottom-i][l]
+                matrix[bottom-i][l] = matrix[bottom][r-i]
+                matrix[bottom][r-i] = matrix[top+i][r]
+                matrix[top+i][r] =topleft
 
-                # move top right into bottom right
-                matrix[bottom][r - i] = matrix[top + i][r]
-
-                # move top left into top right
-                matrix[top + i][r] = topLeft
-            r -= 1
-            l += 1
+            r-=1
+            l+=1
