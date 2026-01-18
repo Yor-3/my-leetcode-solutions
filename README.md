@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0868-push-dominoes](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0868-push-dominoes) |
+| [0881-boats-to-save-people](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0908-middle-of-the-linked-list) |
 | [1129-longest-string-chain](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1129-longest-string-chain) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0747-min-cost-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0797-rabbits-in-forest) |
+| [0881-boats-to-save-people](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0881-boats-to-save-people) |
 | [1036-rotting-oranges](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1036-rotting-oranges) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0881-boats-to-save-people) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1129-longest-string-chain) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0797-rabbits-in-forest](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0797-rabbits-in-forest) |
+| [0881-boats-to-save-people](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0881-boats-to-save-people) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
