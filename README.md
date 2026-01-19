@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0273-integer-to-english-words) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0131-palindrome-partitioning) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0136-single-number) |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0735-asteroid-collision) |
 | [1708-design-parking-system](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1708-design-parking-system) |
 | [2048-build-array-from-permutation](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2048-build-array-from-permutation) |
