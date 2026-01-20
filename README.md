@@ -519,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0338-counting-bits) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3133-minimum-array-end](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/3133-minimum-array-end) |
 | [3394-minimum-array-end](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/3394-minimum-array-end) |
 ## Monotonic Stack
 |  |
