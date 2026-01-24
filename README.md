@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0273-integer-to-english-words) |
 | [0368-largest-divisible-subset](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0368-largest-divisible-subset) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0234-palindrome-linked-list) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0169-majority-element) |
