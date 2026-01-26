@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0394-decode-string) |
 | [2050-count-good-numbers](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2050-count-good-numbers) |
 ## Two Pointers
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0901-online-stock-span) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0394-decode-string](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0394-decode-string) |
 | [0459-repeated-substring-pattern](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0459-repeated-substring-pattern) |
 | [0468-validate-ip-address](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0468-validate-ip-address) |
 | [0516-longest-palindromic-subsequence](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0516-longest-palindromic-subsequence) |
