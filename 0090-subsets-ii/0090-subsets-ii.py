@@ -5,7 +5,7 @@ class Solution:
 
         def backtrack(i, subset):
             if i == len(nums):
-                res.append(subset[::])
+                res.append(subset[:])
                 return
 
             # All subsets that include nums[i]
