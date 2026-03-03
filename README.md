@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0073-set-matrix-zeroes) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0040-combination-sum-ii) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0054-spiral-matrix) |
