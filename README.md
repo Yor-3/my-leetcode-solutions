@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0155-min-stack) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0165-compare-version-numbers) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0273-integer-to-english-words) |
@@ -720,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0207-course-schedule) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -859,4 +862,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1851-minimum-interval-to-include-each-query) |
+## Trie
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
