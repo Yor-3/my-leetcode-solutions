@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0697-degree-of-an-array) |
 | [0797-rabbits-in-forest](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0797-rabbits-in-forest) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0621-task-scheduler) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0697-degree-of-an-array) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0621-task-scheduler) |
 | [0881-boats-to-save-people](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0881-boats-to-save-people) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1129-longest-string-chain) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0621-task-scheduler) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2402-meeting-rooms-iii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2402-meeting-rooms-iii) |
@@ -427,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0797-rabbits-in-forest](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0797-rabbits-in-forest) |
 | [0881-boats-to-save-people](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0881-boats-to-save-people) |
@@ -616,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0621-task-scheduler) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1708-design-parking-system](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1708-design-parking-system) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1986-largest-color-value-in-a-directed-graph) |
