@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0273-integer-to-english-words) |
 | [0368-largest-divisible-subset](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0368-largest-divisible-subset) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0165-compare-version-numbers) |
+| [0202-happy-number](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0295-find-median-from-data-stream) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0268-missing-number) |
