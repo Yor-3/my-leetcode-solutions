@@ -1,29 +1,36 @@
 class Solution:
     def reorderList(self, head: Optional[ListNode]) -> None:
-        fast = head
+
         slow = head
+        fast = head
 
-        # Step 1: Find the middle of the list
+        # find middle
         while fast and fast.next:
-            fast = fast.next.next
             slow = slow.next
+            fast = fast.next.next
 
-        # Step 2: Reverse the second half of the list
-        second = slow.next
+        # start second half
+        cur = slow.next
         slow.next = None
-        node = None
 
-        while second:
-            temp = second.next
-            second.next = node
-            node = second
-            second = temp
+        # reverse second half
+        prev = None
+        while cur:
+            nxt = cur.next
+            cur.next = prev
+            prev = cur
+            cur = nxt
 
-        # Step 3: Merge the two halves
+        # merge
         first = head
-        second = node
+        second = prev
 
         while second:
-            temp1, temp2 = first.next, second.next
-            first.next, second.next = second, temp1
-            first, second = temp1, temp2
+            tmp1 = first.next
+            tmp2 = second.next
+
+            first.next = second
+            second.next = tmp1
+
+            first = tmp1
+            second = tmp2
