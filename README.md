@@ -665,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Search Tree
@@ -703,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -733,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -756,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Graph
 |  |
 | ------- |
