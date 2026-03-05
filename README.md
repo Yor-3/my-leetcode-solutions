@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0070-climbing-stairs) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0078-subsets) |
