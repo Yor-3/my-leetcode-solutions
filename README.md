@@ -736,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0733-flood-fill) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0801-is-graph-bipartite](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0801-is-graph-bipartite) |
@@ -761,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0322-coin-change) |
 | [0513-find-bottom-left-tree-value](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0513-find-bottom-left-tree-value) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0801-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -878,4 +880,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0684-redundant-connection) |
+## Union-Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/Yor-3/leethub-premium-unlocker/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
